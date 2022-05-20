@@ -1,0 +1,7 @@
+# Steves front-end scripts
+
+Over the past few years we have become more reliant on complex, heavy-weight frameworks to do things for us. Even frameworks which claim to be "light-weight" still do far more than most people need. The need for a server to serve data to the front-end, and even do SSR is often more than is needed.
+
+The scripts in this repo are designed to help people move away from the heavier frameworks and use vanilla JS instead.
+
+All the scripts here are pretty quickly built, with no tests and probably only just work. Make sure you don't just blindly use these, and actuall read and understand the code before using.
